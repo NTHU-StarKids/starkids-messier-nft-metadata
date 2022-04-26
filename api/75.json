@@ -1,0 +1,12 @@
+{
+    "description": "NTHU StarKids Messier NFT",
+    "external_url": "https://ipfs.infura.io/ipfs/QmaUnEL6MJCemLRtC4mcUSuEAzUuWiQ3RykZ7ac5CznRUX",
+    "image": "https://ipfs.infura.io/ipfs/QmaUnEL6MJCemLRtC4mcUSuEAzUuWiQ3RykZ7ac5CznRUX",
+    "name": "M75",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "M75"
+        }
+    ]
+}
